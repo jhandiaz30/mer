@@ -11,14 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 <<<<<<< HEAD
-resume_name:                    "Skatetocat"
-resume_title:                   "Professional Skate"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "7654-321"
-resume_contact_address:         "San Francisco, CA"
-resume_header_contact_info: "San Francisco, CA | 7654-321 | services@github.com"
-resume_header_intro: "<p>Professional skater who works on mobile applications when not dropping in</p>"
-=======
+
 resume_name:                    "Mauricio DIAZ"
 resume_title:                   "student"
 resume_contact_email:           "jmauricio468@gmail.com"
